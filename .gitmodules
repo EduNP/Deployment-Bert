@@ -1,0 +1,6 @@
+[submodule "bert-backend"]
+	path = bert-backend
+	url = git@github.com:EduNP/bert-backend.git
+[submodule "bert-frontend"]
+	path = bert-frontend
+	url = git@github.com:EduNP/bert-frontend.git
